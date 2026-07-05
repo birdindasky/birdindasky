@@ -9,4 +9,4 @@ I build small, local-first AI tools, mostly on macOS.
 | [codex-pair](https://github.com/birdindasky/codex-pair) | A Claude Code skill where Claude and Codex review each other's work until they agree |
 | [gmail-unsubscriber](https://github.com/birdindasky/gmail-unsubscriber) | AI bulk-unsubscribe for Gmail that never touches your bank, doctor, or boss |
 
-Everything is MIT-licensed. Issues and PRs welcome — 中文 issue 也欢迎.
+Everything is MIT-licensed. Issues and PRs welcome — 中文 issue 也欢迎。
